@@ -1,12 +1,12 @@
-css:root {
-    --green: #00FF00;
-    --white: #ffffff;
-    --black: #000000;
+```css
+:root {
+  --green: #00FF00;
+  --white: #ffffff;
+  --black: #000000;
 }
-
 * {
-    color: var(--fontColor);
-    font-family: Arial, Helvetica, sans-serif;
+  color: var(--fontColor);
+  font-family: helvetica;
 }
 
 body {
@@ -14,23 +14,23 @@ body {
 }
 
 ul {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
 }
-
 li {
-    list-style: circle;
+  list-style: circle;
 }
 
 .list {
-    list-style: square;
+  list-style: square;
 }
-
+    
 .light-theme {
-    --bg: var(--green);
-    --fontColor: var(--black);
+  --bg: var(--green);
+  --fontColor: var(--black);
 }
 
 .dark-theme {
-    --bg: var(--black);
-    --fontColor: var(--green);
+  --bg: var(--black);
+  --fontColor: var(--green);
 }
+```
