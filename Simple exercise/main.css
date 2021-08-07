@@ -1,36 +1,53 @@
-```css
 :root {
-  --green: #00FF00;
-  --white: #ffffff;
-  --black: #000000;
+    --lightblue: #58c4ac;
+    --white: white;
+    --black: black;
 }
+
 * {
-  color: var(--fontColor);
-  font-family: helvetica;
+    color: var(--fontColor);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background: var(--bg);
+    background: var(--background);
 }
 
 ul {
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 li {
-  list-style: circle;
+    list-style: square;
 }
 
 .list {
-  list-style: square;
+    list-style: square;
 }
-    
+
 .light-theme {
-  --bg: var(--green);
-  --fontColor: var(--black);
+    --background: var(--lightblue);
+    --fontColor: var(--black);
+    --buttonBackground: var(--black);
+    --buttonFontColor: var(--white);
 }
 
 .dark-theme {
-  --bg: var(--black);
-  --fontColor: var(--green);
+    --background: var(--black);
+    --fontColor: var(--lightblue);
+    --buttonBackground: var(--white);
+    --buttonFontColor: var(--black);
 }
-```
+
+.button:focus {
+    outline-style: none;
+    position: absolute;
+    top: 20px;
+    left: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    color: var(--buttonFontColor);
+    background-color: var(--buttonBackground);
+}
