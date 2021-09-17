@@ -1,5 +1,7 @@
 # testando detecção das linguagens usadas no projeto
 /*.html linguist-detectable
+/*.js linguist-detectable
+
 
 * linguist-vendored
 *.js linguist-vendored=false
