@@ -1,0 +1,7 @@
+# testando detecção das linguagens usadas no projeto
+/docs.html linguist-detectable
+/docs.html -linguist-documentation
+/docs.js linguist-detectable
+/docs.js -linguist-documentation
+/docs.css linguist-detectable
+/docs.css -linguist-documentation
