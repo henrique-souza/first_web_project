@@ -1,8 +1,0 @@
-# testando detecção das linguagens usadas no projeto
-#*.md linguist-language=HTML
-#*.js linguist-detectable
-#*.css linguist-detectable
-#special-vendored-path/* linguist-vendored
-
-docs/app.js -linguist-detectable
-
