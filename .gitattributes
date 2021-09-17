@@ -1,5 +1,6 @@
 # testando detecção das linguagens usadas no projeto
 
+*.html linguist-detectable
 *.md linguist-language=HTML
 *.js linguist-detectable
 *.css linguist-detectable
