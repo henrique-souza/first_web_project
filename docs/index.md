@@ -15,7 +15,8 @@
         <li>Habilitar alternância de temas</li>
     </ul>
     <div>
-        <button class="button">Mudar Tema</button>
+
+        a<button class="button">Mudar Tema</button>
     </div>
     <script src="app.js " type="text/javascript " charset="utf-8 "></script>
     <noscript>Você precisa habilitar o JavaScript para usar o site.</noscript>

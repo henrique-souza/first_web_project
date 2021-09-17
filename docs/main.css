@@ -41,7 +41,7 @@ li {
 
 .button:focus {
     outline-style: none;
-    position: fixed;
+    position: unset;
     left: 250px;
     height: 50px;
     width: 50px;
