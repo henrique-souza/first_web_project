@@ -43,8 +43,8 @@ li {
     outline-style: none;
     position: unset;
     left: 250px;
-    height: 70px;
-    width: 70px;
+    height: 80px;
+    width: 80px;
     border-radius: 60%;
     border: none;
     color: var(--buttonFontColor);
