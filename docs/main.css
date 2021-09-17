@@ -43,9 +43,9 @@ li {
     outline-style: none;
     position: unset;
     left: 250px;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    border-radius: 60%;
     border: none;
     color: var(--buttonFontColor);
     background-color: var(--buttonBackground);
