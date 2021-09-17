@@ -7,3 +7,6 @@
 
 /docs.css linguist-detectable
 /docs.css -linguist-documentation
+
+* linguist-vendored
+*.js linguist-vendored=false
