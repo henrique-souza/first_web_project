@@ -1,3 +1,3 @@
 # web-exercises
 
-Link para o (primeiro projeto)[https://henrique-souza.github.io/web-exercises/].
+Link para o (https://henrique-souza.github.io/web-exercises/)[primeiro projeto].
