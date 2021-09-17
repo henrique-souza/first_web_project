@@ -2,11 +2,5 @@
 /*.html linguist-detectable
 /*.html -linguist-documentation
 
-/docs.js linguist-detectable
-/docs.js -linguist-documentation
-
-/docs.css linguist-detectable
-/docs.css -linguist-documentation
-
 * linguist-vendored
 *.js linguist-vendored=false
