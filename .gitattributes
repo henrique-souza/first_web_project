@@ -1,1 +1,2 @@
 docs/* linguist-documentation=false
+docs/*.css linguist-detectabe=false
