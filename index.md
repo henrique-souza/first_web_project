@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Primeiro exercício WEB</title>
-    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="/styles/main.css">
 </head>
 
 <body class="light-theme">
@@ -17,7 +17,7 @@
     <div>
         <button class="button">Mudar Tema</button>
     </div>
-    <script src="scripts/app.js"></script>
+    <script src="/scripts/app.js"></script>
     <noscript>Você precisa habilitar o JavaScript para usar o site.</noscript>
 </body>
 
